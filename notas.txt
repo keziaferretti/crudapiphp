@@ -1,0 +1,9 @@
+API
+
+
+testar a api
+https://resttesttest.com/
+
+http://localhost/b7api/api/get.php
+
+http://localhost/b7api/api/getall.php/
